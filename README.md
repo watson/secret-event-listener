@@ -23,6 +23,9 @@ listener is added.
 This module gives you the ability to attach a listener without
 triggering any of these side effects.
 
+**Only use this module if you are sure you don't want any side effects
+and there's other way to achieve your goals!**
+
 ## Installation
 
 ```
