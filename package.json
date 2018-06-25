@@ -1,0 +1,35 @@
+{
+  "name": "secret-event-listener",
+  "version": "0.0.0",
+  "description": "Add an event listener without causing any side effects",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^11.0.1",
+    "tape": "^4.9.1"
+  },
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watson/secret-event-listener.git"
+  },
+  "keywords": [
+    "eavesdrop",
+    "EventEmitter",
+    "listen",
+    "listener",
+    "event",
+    "events",
+    "spy",
+    "side-effect",
+    "inject"
+  ],
+  "author": "Thomas Watson <w@tson.dk> (https://twitter.com/wa7son)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watson/secret-event-listener/issues"
+  },
+  "homepage": "https://github.com/watson/secret-event-listener#readme"
+}
