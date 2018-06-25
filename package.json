@@ -1,6 +1,6 @@
 {
   "name": "secret-event-listener",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Add an event listener without causing any side effects",
   "main": "index.js",
   "dependencies": {},
@@ -31,5 +31,9 @@
   "bugs": {
     "url": "https://github.com/watson/secret-event-listener/issues"
   },
-  "homepage": "https://github.com/watson/secret-event-listener#readme"
+  "homepage": "https://github.com/watson/secret-event-listener#readme",
+  "coordinates": [
+    55.777603,
+    12.590177
+  ]
 }
